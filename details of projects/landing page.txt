@@ -1,0 +1,7 @@
+________________landing Page________________
+foloowing thingsshould be there on landing page 
+1. Signin(already a user)/signup.
+2. details and how it works + iamges. (who ever will add images have to design css acordingly means borders + the size and design).
+3. Navigation bar contains logo at left and pages on right.
+4. get Started.
+5. footer.
